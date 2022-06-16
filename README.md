@@ -1,5 +1,7 @@
 # Aplicação RPC (Remote Procedure Call) em Python
 
+ [O que é uma chamada de procedimento remoto?](https://pt.wikipedia.org/wiki/Chamada_de_procedimento_remoto)
+
 Nesse exemplo, a aplicação servidor apenas exibe os dados recebidos pelo cliente, através de uma RPC. O cliente se encarrega de executar uma função para coletar os dados de sistema e enviar para a aplicação servidor pela rede.
 
 
